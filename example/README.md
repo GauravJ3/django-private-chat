@@ -11,6 +11,8 @@ To run this example, follow these instructions:
 
         virtualenv venv -p python3
         source venv/bin/activate
+	FOR Windows User ->
+	insted of source venv/bin/activate ->> venv\Scripts\activate
         
 3. Install the requirements for the package:
 		
